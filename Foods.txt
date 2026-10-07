@@ -3,3 +3,4 @@
 3. Pie
 4. Chicken
 5. Soup
+6. Smoothie
